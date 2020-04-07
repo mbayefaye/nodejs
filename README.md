@@ -16,11 +16,9 @@ the repos is divided into three parts:
 
 -http:this folder contains a simple project using nodejs . run node index to start the server
 
-```
-
 ## Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-```
 
 ##Author
 Mbaye Faye
